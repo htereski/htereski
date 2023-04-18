@@ -2,7 +2,7 @@
 
 <div align="center">
   <li>Estou cursando ADS no Instituto Federal do Paraná</li>
-  <li>Aprendendo POO com Java e banco de dados relacional (MER)</li> 
+  <li>Aprendendo POO com Java e banco de dados relacional</li> 
   <li>Projeto <a href="https://htereski.github.io/projeto-android/">Android</a> responsivo</li>
   
 </div>
