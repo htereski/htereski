@@ -1,10 +1,8 @@
 <h1 align="center" >Olá meu nome é Herbert 👋</h1>
 
 <div align="center">
-  <li>Estou cursando ADS no Instituto Federal do Paraná</li>
-  <li>Aprendendo POO com Java e banco de dados relacional</li> 
+  <li>Estou cursando ADS no Instituto Federal do Paraná</li> 
   <li>Projeto <a href="https://htereski.github.io/projeto-android/">Android</a> responsivo</li>
-  
 </div>
 <br>
 
